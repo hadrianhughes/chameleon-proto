@@ -1,7 +1,7 @@
 {
-  "name": "chameleon",
+  "name": "chameleon-proto",
   "version": "1.0.0",
-  "description": "A simple implementation of The Chameleon as a REST web app",
+  "description": "A simple implementation of The Chameleon as a REST web app in Node.js",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
